@@ -12,7 +12,7 @@ Disclaimer
 
 Setup
 
-    Make sure you have all the libraries that need to be imported for the LiveMarketData class file. If not, run the following in your terminal:
+    Make sure you have all the libraries that need to be imported for the main.py file. If not, run the following in your terminal:
     pip3 install yfinance
     pip3 install pandas
     pip3 install plotly
